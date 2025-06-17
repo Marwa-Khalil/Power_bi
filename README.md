@@ -58,7 +58,7 @@ superstore-sales-dashboard/
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot] [(https://github.com/Marwa-Khalil/Power_bi/blob/main/Super%20Store%20Report](https://github.com/Marwa-Khalil/Power_bi/blob/main/Supper%20Stoer%20Report.jpg)
+![Dashboard Screenshot] [(https://github.com/Marwa-Khalil/Power_bi/blob/main/Supper%20Store%20Report](https://github.com/Marwa-Khalil/Power_bi/blob/main/Supper%20Stoer%20Report.jpg)]
 
 ---
 
